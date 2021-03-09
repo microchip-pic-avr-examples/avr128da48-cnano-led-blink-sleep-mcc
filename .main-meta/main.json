@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-led-blink-sleep-mcc",
-        "version": " 1.0.0 ",
+        "version": " 1.0.1",
         "displayName": " AVR128DA48 LED blink with sleep - MCC example ",
         "projectName": "avr128da48-cnano-led-blink-sleep-mcc",
         "shortDescription": "A program that blinks the LED with a period of 1 second while the microcontroller is in sleep",
