@@ -5,9 +5,9 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-led-blink-sleep-mcc",
         "version": " 1.0.1",
-        "displayName": " AVR128DA48 LED blink with sleep - MCC example ",
+        "displayName": "LED Blink with Sleep Operation",
         "projectName": "avr128da48-cnano-led-blink-sleep-mcc",
-        "shortDescription": "A program that blinks the LED with a period of 1 second while the microcontroller is in sleep",
+        "shortDescription": "This repository provides an MPLAB X IDE project with an MCC (MPLAB Code Configurator) generated code example for blinking an LED where the microcontroller is in sleep state the rest of the time",
         "ide": {
             "name": "MPLABX",
             "semverRange": ">=5.40"
@@ -20,7 +20,7 @@
 		],
         "dfp": {
             "name": "AVR-Dx_DFP",
-            "semverRange": "1.2.52"
+            "semverRange": "^1.2.52"
         },
         "configurator": {
             "name": "MCC",
@@ -38,19 +38,18 @@
         },
         "author": "Microchip",
         "subcategories": [
-            "MCC",
             [
-               "Peripherals", "TCA0"
+               "Peripherals", "TCA"
             ]         			
         ],
         "peripherals": [
-            "TCA0"
+            "TCA"
         ],
         "keywords": [
-            "LED",
-            "blink",
-			"sleep",
-			"interrupt"
+            "LED Blink",
+            "Sleep",
+            "Wake-up",
+			"Getting Started"
         ],
 		"additionalData": {
 			"longDescription": {
