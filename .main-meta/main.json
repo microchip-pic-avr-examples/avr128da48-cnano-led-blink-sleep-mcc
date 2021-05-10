@@ -9,7 +9,7 @@
         "projectName": "avr128da48-cnano-led-blink-sleep-mcc",
         "shortDescription": "This repository provides an MPLAB X IDE project with an MCC (MPLAB Code Configurator) generated code example for blinking an LED where the microcontroller is in sleep state the rest of the time",
         "ide": {
-            "name": "MPLABX",
+            "name": "MPLAB X",
             "semverRange": ">=5.40.0"
         },
         "compiler": [
